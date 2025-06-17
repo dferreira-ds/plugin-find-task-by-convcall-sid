@@ -1,0 +1,19 @@
+.main__container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.search__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 36px auto 0 auto;
+    gap: 24px;
+    width: 100%;
+}
+
+.notification__container {
+    width: 100%;
+}
